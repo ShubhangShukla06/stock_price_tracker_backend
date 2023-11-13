@@ -1,0 +1,1207 @@
+[{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b6d"
+  },
+  "symbol": "ACC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b6e"
+  },
+  "symbol": "ADANIENT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b6f"
+  },
+  "symbol": "ADANIPORTS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b70"
+  },
+  "symbol": "ADANIPOWER",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b71"
+  },
+  "symbol": "AJANTPHARM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b72"
+  },
+  "symbol": "ALBK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b73"
+  },
+  "symbol": "AMARAJABAT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b74"
+  },
+  "symbol": "AMBUJACEM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b75"
+  },
+  "symbol": "APOLLOHOSP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b76"
+  },
+  "symbol": "APOLLOTYRE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b77"
+  },
+  "symbol": "ARVIND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b78"
+  },
+  "symbol": "ASHOKLEY",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b79"
+  },
+  "symbol": "ASIANPAINT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b7a"
+  },
+  "symbol": "AUROPHARMA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b7b"
+  },
+  "symbol": "AXISBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b7c"
+  },
+  "symbol": "BAJAJ-AUTO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b7d"
+  },
+  "symbol": "BAJFINANCE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b7e"
+  },
+  "symbol": "BAJAJFINSV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b7f"
+  },
+  "symbol": "BALKRISIND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b80"
+  },
+  "symbol": "BANKBARODA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b81"
+  },
+  "symbol": "BANKINDIA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b82"
+  },
+  "symbol": "BATAINDIA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b83"
+  },
+  "symbol": "BEML",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b84"
+  },
+  "symbol": "BERGEPAINT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b85"
+  },
+  "symbol": "BEL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b86"
+  },
+  "symbol": "BHARATFIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b87"
+  },
+  "symbol": "BHARATFORG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b88"
+  },
+  "symbol": "BPCL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b89"
+  },
+  "symbol": "BHARTIARTL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b8a"
+  },
+  "symbol": "INFRATEL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b8b"
+  },
+  "symbol": "BHEL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b8c"
+  },
+  "symbol": "BIOCON",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b8d"
+  },
+  "symbol": "BOSCHLTD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b8e"
+  },
+  "symbol": "BRITANNIA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b8f"
+  },
+  "symbol": "CADILAHC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b90"
+  },
+  "symbol": "CANFINHOME",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b91"
+  },
+  "symbol": "CANBK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b92"
+  },
+  "symbol": "CAPF",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b93"
+  },
+  "symbol": "CASTROLIND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b94"
+  },
+  "symbol": "CEATLTD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b95"
+  },
+  "symbol": "CENTURYTEX",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "654921d986fc0d8d90cb6b96"
+  },
+  "symbol": "CESC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318740"
+  },
+  "symbol": "CGPOWER",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318741"
+  },
+  "symbol": "CHENNPETRO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318742"
+  },
+  "symbol": "CHOLAFIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318743"
+  },
+  "symbol": "CIPLA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318744"
+  },
+  "symbol": "COALINDIA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318745"
+  },
+  "symbol": "COLPAL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318746"
+  },
+  "symbol": "CONCOR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318747"
+  },
+  "symbol": "CUMMINSIND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318748"
+  },
+  "symbol": "DABUR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318749"
+  },
+  "symbol": "DCBBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631874a"
+  },
+  "symbol": "DHFL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631874b"
+  },
+  "symbol": "DISHTV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631874c"
+  },
+  "symbol": "DIVISLAB",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631874d"
+  },
+  "symbol": "DLF",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631874e"
+  },
+  "symbol": "DRREDDY",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631874f"
+  },
+  "symbol": "EICHERMOT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318750"
+  },
+  "symbol": "ENGINERSIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318751"
+  },
+  "symbol": "EQUITAS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318752"
+  },
+  "symbol": "ESCORTS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318753"
+  },
+  "symbol": "EXIDEIND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318754"
+  },
+  "symbol": "FEDERALBNK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318755"
+  },
+  "symbol": "GAIL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318756"
+  },
+  "symbol": "GLENMARK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318757"
+  },
+  "symbol": "GMRINFRA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318758"
+  },
+  "symbol": "GODFRYPHLP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318759"
+  },
+  "symbol": "GODREJCP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631875a"
+  },
+  "symbol": "GODREJIND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631875b"
+  },
+  "symbol": "GRASIM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631875c"
+  },
+  "symbol": "GSFC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631875d"
+  },
+  "symbol": "HAVELLS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631875e"
+  },
+  "symbol": "HCLTECH",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631875f"
+  },
+  "symbol": "HDFCBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318760"
+  },
+  "symbol": "HDFC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318761"
+  },
+  "symbol": "HEROMOTOCO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318762"
+  },
+  "symbol": "HEXAWARE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318763"
+  },
+  "symbol": "HINDALCO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318764"
+  },
+  "symbol": "HINDPETRO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318765"
+  },
+  "symbol": "HINDUNILVR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318766"
+  },
+  "symbol": "HINDZINC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318767"
+  },
+  "symbol": "ICICIBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318768"
+  },
+  "symbol": "ICICIPRULI",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318769"
+  },
+  "symbol": "IDBI",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631876a"
+  },
+  "symbol": "IDEA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631876b"
+  },
+  "symbol": "IDFCBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631876c"
+  },
+  "symbol": "IDFC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631876d"
+  },
+  "symbol": "IFCI",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631876e"
+  },
+  "symbol": "IBULHSGFIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de7631876f"
+  },
+  "symbol": "INDIANB",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318770"
+  },
+  "symbol": "IOC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318771"
+  },
+  "symbol": "IGL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318772"
+  },
+  "symbol": "INDUSINDBK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318773"
+  },
+  "symbol": "INFIBEAM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549220972c6c0de76318774"
+  },
+  "symbol": "INFY",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a08"
+  },
+  "symbol": "INDIGO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a09"
+  },
+  "symbol": "IRB",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a0a"
+  },
+  "symbol": "ITC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a0b"
+  },
+  "symbol": "JISLJALEQS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a0c"
+  },
+  "symbol": "JPASSOCIAT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a0d"
+  },
+  "symbol": "JETAIRWAYS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a0e"
+  },
+  "symbol": "JINDALSTEL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a0f"
+  },
+  "symbol": "JSWSTEEL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a10"
+  },
+  "symbol": "JUBLFOOD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a11"
+  },
+  "symbol": "JUSTDIAL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a12"
+  },
+  "symbol": "KAJARIACER",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a13"
+  },
+  "symbol": "KTKBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a14"
+  },
+  "symbol": "KSCL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a15"
+  },
+  "symbol": "KOTAKBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a16"
+  },
+  "symbol": "KPIT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a17"
+  },
+  "symbol": "L&TFH",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a18"
+  },
+  "symbol": "LT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a19"
+  },
+  "symbol": "LICHSGFIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a1a"
+  },
+  "symbol": "LUPIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a1b"
+  },
+  "symbol": "M&MFIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a1c"
+  },
+  "symbol": "MGL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a1d"
+  },
+  "symbol": "M&M",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a1e"
+  },
+  "symbol": "MANAPPURAM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a1f"
+  },
+  "symbol": "MRPL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a20"
+  },
+  "symbol": "MARICO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a21"
+  },
+  "symbol": "MARUTI",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a22"
+  },
+  "symbol": "MFSL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a23"
+  },
+  "symbol": "MINDTREE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a24"
+  },
+  "symbol": "MOTHERSUMI",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a25"
+  },
+  "symbol": "MRF",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a26"
+  },
+  "symbol": "MCX",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a27"
+  },
+  "symbol": "MUTHOOTFIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a28"
+  },
+  "symbol": "NATIONALUM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a29"
+  },
+  "symbol": "NBCC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a2a"
+  },
+  "symbol": "NCC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a2b"
+  },
+  "symbol": "NESTLEIND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a2c"
+  },
+  "symbol": "NHPC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a2d"
+  },
+  "symbol": "NIITTECH",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a2e"
+  },
+  "symbol": "NMDC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a2f"
+  },
+  "symbol": "NTPC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a30"
+  },
+  "symbol": "ONGC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a31"
+  },
+  "symbol": "OIL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a32"
+  },
+  "symbol": "OFSS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a33"
+  },
+  "symbol": "ORIENTBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a34"
+  },
+  "symbol": "PAGEIND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a35"
+  },
+  "symbol": "PCJEWELLER",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a36"
+  },
+  "symbol": "PETRONET",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a37"
+  },
+  "symbol": "PIDILITIND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a38"
+  },
+  "symbol": "PEL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a39"
+  },
+  "symbol": "PFC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a3a"
+  },
+  "symbol": "POWERGRID",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a3b"
+  },
+  "symbol": "PTC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a3c"
+  },
+  "symbol": "PNB",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a3d"
+  },
+  "symbol": "PVR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a3e"
+  },
+  "symbol": "RAYMOND",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a3f"
+  },
+  "symbol": "RBLBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a40"
+  },
+  "symbol": "RELCAPITAL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a41"
+  },
+  "symbol": "RCOM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a42"
+  },
+  "symbol": "RELIANCE",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a43"
+  },
+  "symbol": "RELINFRA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a44"
+  },
+  "symbol": "RPOWER",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a45"
+  },
+  "symbol": "REPCOHOME",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a46"
+  },
+  "symbol": "RECLTD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a47"
+  },
+  "symbol": "SHREECEM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a48"
+  },
+  "symbol": "SRTRANSFIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a49"
+  },
+  "symbol": "SIEMENS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a4a"
+  },
+  "symbol": "SREINFRA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a4b"
+  },
+  "symbol": "SRF",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a4c"
+  },
+  "symbol": "SBIN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a4d"
+  },
+  "symbol": "SAIL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a4e"
+  },
+  "symbol": "STAR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a4f"
+  },
+  "symbol": "SUNPHARMA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a50"
+  },
+  "symbol": "SUNTV",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a51"
+  },
+  "symbol": "SUZLON",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a52"
+  },
+  "symbol": "SYNDIBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a53"
+  },
+  "symbol": "TATACHEM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a54"
+  },
+  "symbol": "TATACOMM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a55"
+  },
+  "symbol": "TCS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a56"
+  },
+  "symbol": "TATAELXSI",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a57"
+  },
+  "symbol": "TATAGLOBAL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a58"
+  },
+  "symbol": "TATAMTRDVR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a59"
+  },
+  "symbol": "TATAMOTORS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a5a"
+  },
+  "symbol": "TATAPOWER",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a5b"
+  },
+  "symbol": "TATASTEEL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a5c"
+  },
+  "symbol": "TECHM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a5d"
+  },
+  "symbol": "INDIACEM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a5e"
+  },
+  "symbol": "RAMCOCEM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a5f"
+  },
+  "symbol": "SOUTHBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a60"
+  },
+  "symbol": "TITAN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a61"
+  },
+  "symbol": "TORNTPHARM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a62"
+  },
+  "symbol": "TORNTPOWER",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a63"
+  },
+  "symbol": "TV18BRDCST",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a64"
+  },
+  "symbol": "TVSMOTOR",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a65"
+  },
+  "symbol": "UJJIVAN",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a66"
+  },
+  "symbol": "ULTRACEMCO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a67"
+  },
+  "symbol": "UNIONBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a68"
+  },
+  "symbol": "UBL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a69"
+  },
+  "symbol": "MCDOWELL-N",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a6a"
+  },
+  "symbol": "UPL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a6b"
+  },
+  "symbol": "VEDL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a6c"
+  },
+  "symbol": "VGUARD",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a6d"
+  },
+  "symbol": "VOLTAS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a6e"
+  },
+  "symbol": "WIPRO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a6f"
+  },
+  "symbol": "WOCKPHARMA",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a70"
+  },
+  "symbol": "YESBANK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6549224184ee850a77164a71"
+  },
+  "symbol": "ZEEL",
+  "__v": 0
+}]
